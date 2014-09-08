@@ -1,0 +1,13 @@
+{
+  "name": "angulator",
+  "version": "0.0.0",
+  "homepage": "https://github.com/RJFryman/angulator",
+  "authors": [
+    "Robert Fryman <robert.fryman@gmail.com>"
+  ],
+  "description": "Calculator with Angular",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.3.0-rc.0"
+  }
+}
